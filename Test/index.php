@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        $TestVar=1;
         // put your code here
         echo 'Hello World';
         ?>
